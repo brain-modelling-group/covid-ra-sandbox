@@ -1,0 +1,12 @@
+Hesitance and Resistance: COVID vaccine
+Hesitancy = fear of side effects
+Resistance = against vacinnations
+Note: Age categories will be merged if data doesn't contain date
+(e.g. if only 11-20, then 20-24 and 25-29 will share value)
+
+DSV = Data source value 
+0 = media, 1 = government, 2 = paper, 3 = relevant paper
+
+
+Often the question people respond to isn't directly related - but the closest question to "will you get the COVID-19 vaccine" was chosen
+Some had qualitative scales (completely disagree, somewhat disagree, neutral, somewhat agree, completely agree). Because getting vaccinated is an active choice, disagree/neutral counts as hesitant 
